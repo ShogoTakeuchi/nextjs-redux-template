@@ -2,7 +2,7 @@
 
 Next.js and React/Redux code template with Firebase Authentication
 
-## Config
+## Configuration
 
 src/configs/firebase.ts
 
